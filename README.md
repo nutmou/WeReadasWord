@@ -25,7 +25,7 @@
    - [Edge 插件链接](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
 2. **安装本脚本**：
-   - **方法 1**：直接点击 [WeReadFaker_Organized/weread-word-style-final-v1.0.0.user.js] 
+   - **方法 1**：直接点击 [[WeReadFaker_Organized/weread-word-style-final-v1.0.0.user.js](https://github.com/nutmou/WeReadasWord/blob/f722bf8e17be6d6d967e280a3775227a949df328/WeReadFaker_Organized/weread-word-style-final-v1.0.0.user.js)] 
    - **方法 2**：复制其中的完整代码，在 Tampermonkey 的管理面板中点击“添加新脚本”，粘贴并保存。
 
 3. **确保脚本已启用**：
