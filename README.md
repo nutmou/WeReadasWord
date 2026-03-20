@@ -34,7 +34,8 @@
 4. **开始阅读**：
    - 打开或刷新 [微信读书网页版](https://weread.qq.com/) 页面，即刻进入 Word 伪装模式。
 
----
+---**效果图**：
+<img width="3840" height="1907" alt="image" src="https://github.com/user-attachments/assets/adba323d-cb2f-4a5f-a33d-03afb056dd27" />
 
 ## 🔄 更新日志
 
